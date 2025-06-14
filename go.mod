@@ -17,3 +17,5 @@ require (
 	golang.org/x/exp v0.0.0-20240325151524-a685a6edb6d8 // indirect
 	golang.org/x/text v0.20.0 // indirect
 )
+
+replace github.com/tursodatabase/libsql-client-go => github.com/muhwyndhamhp/libsql-client-go v0.0.0-20250614094638-71b41e0d5d25
